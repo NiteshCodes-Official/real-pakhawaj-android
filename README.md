@@ -6,7 +6,7 @@
 [![Platform](https://img.shields.io/badge/PLATFORM-ANDROID_8.0+-green?style=for-the-badge&logo=android)]()
 
 <div align="center">
-  <img src="pakhawaj_feature_graphic_1024x500.png" alt="Real Pakhawaj and Tabla Riyaz App Showcase" width="100%"/>
+  <img src="file_00000000ed608230a62fbc42cae774a3.png" alt="Real Pakhawaj and Tabla Riyaz App Showcase" width="100%"/>
 </div>
 
 ---
